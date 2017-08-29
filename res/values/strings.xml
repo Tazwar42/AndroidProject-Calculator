@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="display"></string>
+    <string name="btn7">7</string>
+    <string name="btn0">0</string>
+    <string name="btn10">.</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btnequal">=</string>
+    <string name="btnplus">+</string>
+    <string name="btnminus">-</string>
+    <string name="btnclear">C</string>
+    <string name="btndiv">/</string>
+    <string name="btnmult">X</string>
+    <string name="myname">S.I.A</string>
+    <string name="title_activity_calculator">Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btnStart">Start</string>
+    <string name="btnMs">Ms</string>
+    <string name="btnmplus">M+</string>
+    <string name="btnMminus">M-</string>
+    <string name="btnMclr">Mc</string>
+    <string name="btnM">M</string>
+    <string name="title_activity_webviewcal">Webviewcal</string>
+
+</resources>
